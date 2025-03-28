@@ -1,0 +1,193 @@
+flagCode,country,EducationIndex_2022
+AU,Australia,1.01
+IS,Iceland,0.99
+NZ,New Zealand,0.98
+DE,Germany,0.96
+DK,Denmark,0.96
+FI,Finland,0.96
+NO,Norway,0.95
+GB,United Kingdom,0.94
+NL,Netherlands,0.94
+BE,Belgium,0.94
+SE,Sweden,0.94
+GR,Greece,0.94
+CH,Switzerland,0.92
+IE,Ireland,0.92
+US,United States,0.91
+CA,Canada,0.91
+LT,Lithuania,0.91
+SI,Slovenia,0.91
+PW,Palau,0.91
+AR,Argentina,0.90
+AE,United Arab Emirates,0.90
+HK,Hong Kong,0.90
+LV,Latvia,0.90
+GE,Georgia,0.89
+EE,Estonia,0.89
+KR,South Korea,0.88
+PL,Poland,0.88
+CZ,Czech Republic,0.88
+MH,Marshall Islands,0.88
+AT,Austria,0.87
+SG,Singapore,0.87
+KN,Saint Kitts and Nevis,0.87
+IL,Israel,0.86
+CY,Cyprus,0.86
+RU,Russia,0.85
+JP,Japan,0.85
+ES,Spain,0.85
+MT,Malta,0.85
+TR,Turkey,0.84
+CL,Chile,0.84
+SK,Slovakia,0.84
+HR,Croatia,0.84
+ME,Montenegro,0.84
+LI,Liechtenstein,0.84
+FR,France,0.83
+HU,Hungary,0.83
+LU,Luxembourg,0.83
+IT,Italy,0.82
+KZ,Kazakhstan,0.82
+BH,Bahrain,0.82
+TO,Tonga,0.82
+VC,Saint Vincent and the Grenadines,0.82
+MD,Moldova,0.81
+SA,Saudi Arabia,0.80
+BY,Belarus,0.80
+PT,Portugal,0.79
+RS,Serbia,0.79
+UY,Uruguay,0.79
+BB,Barbados,0.79
+GD,Grenada,0.79
+ZA,South Africa,0.78
+RO,Romania,0.78
+AM,Armenia,0.78
+TT,Trinidad and Tobago,0.78
+AG,Antigua and Barbuda,0.78
+BG,Bulgaria,0.77
+KG,Kyrgyzstan,0.76
+OM,Oman,0.76
+SC,Seychelles,0.76
+IR,Iran,0.75
+LK,Sri Lanka,0.75
+CU,Cuba,0.75
+BS,Bahamas,0.75
+UA,Ukraine,0.74
+PE,Peru,0.74
+BO,Bolivia,0.74
+TM,Turkmenistan,0.74
+CR,Costa Rica,0.74
+AL,Albania,0.74
+MU,Mauritius,0.74
+AD,Andorra,0.74
+TH,Thailand,0.73
+UZ,Uzbekistan,0.73
+FJ,Fiji,0.73
+MY,Malaysia,0.72
+PA,Panama,0.72
+MN,Mongolia,0.72
+BA,Bosnia and Herzegovina,0.72
+WS,Samoa,0.72
+BR,Brazil,0.71
+MX,Mexico,0.71
+EC,Ecuador,0.71
+AZ,Azerbaijan,0.71
+QA,Qatar,0.71
+CO,Colombia,0.70
+VE,Venezuela,0.70
+JO,Jordan,0.70
+PS,Palestine,0.70
+MK,North Macedonia,0.70
+CN,China,0.69
+EG,Egypt,0.69
+BN,Brunei,0.69
+SM,San Marino,0.69
+TV,Tuvalu,0.69
+ID,Indonesia,0.68
+DO,Dominican Republic,0.68
+TJ,Tajikistan,0.68
+PY,Paraguay,0.68
+KW,Kuwait,0.68
+DM,Dominica,0.68
+TN,Tunisia,0.67
+PH,Philippines,0.66
+DZ,Algeria,0.66
+GA,Gabon,0.66
+BW,Botswana,0.66
+NR,Nauru,0.66
+VN,Vietnam,0.65
+LY,Libya,0.65
+JM,Jamaica,0.65
+GY,Guyana,0.65
+BZ,Belize,0.64
+LC,Saint Lucia,0.64
+KI,Kiribati,0.63
+AO,Angola,0.62
+CG,Republic of the Congo,0.62
+LB,Lebanon,0.62
+MA,Morocco,0.61
+GQ,Equatorial Guinea,0.61
+ZW,Zimbabwe,0.60
+SZ,Eswatini,0.60
+MV,Maldives,0.60
+CM,Cameroon,0.59
+NI,Nicaragua,0.59
+SR,Suriname,0.59
+FM,Micronesia,0.59
+BD,Bangladesh,0.58
+IN,India,0.57
+IQ,Iraq,0.57
+KE,Kenya,0.57
+SV,El Salvador,0.57
+NA,Namibia,0.57
+TL,Timor-Leste,0.57
+KM,Comoros,0.57
+VU,Vanuatu,0.57
+LS,Lesotho,0.56
+SB,Solomon Islands,0.56
+BT,Bhutan,0.56
+NG,Nigeria,0.55
+MM,Myanmar,0.55
+ZM,Zambia,0.55
+TG,Togo,0.55
+ST,Sao Tome and Principe,0.55
+GH,Ghana,0.54
+UG,Uganda,0.53
+HN,Honduras,0.52
+CV,Cape Verde,0.52
+CD,DR Congo,0.51
+NP,Nepal,0.50
+KH,Cambodia,0.50
+HT,Haiti,0.50
+MW,Malawi,0.49
+GT,Guatemala,0.49
+RW,Rwanda,0.48
+LA,Laos,0.48
+PG,Papua New Guinea,0.47
+LR,Liberia,0.47
+TZ,Tanzania,0.43
+MZ,Mozambique,0.43
+CI,Ivory Coast,0.42
+GW,Guinea-Bissau,0.42
+MG,Madagascar,0.41
+SY,Syria,0.40
+GM,Gambia,0.40
+BJ,Benin,0.39
+BI,Burundi,0.39
+MR,Mauritania,0.39
+AF,Afghanistan,0.38
+PK,Pakistan,0.37
+SD,Sudan,0.37
+SL,Sierra Leone,0.37
+ER,Eritrea,0.37
+GN,Guinea,0.36
+SN,Senegal,0.35
+SS,South Sudan,0.35
+DJ,Djibouti,0.35
+CF,Central African Republic,0.34
+YE,Yemen,0.31
+BF,Burkina Faso,0.30
+TD,Chad,0.30
+SO,Somalia,0.27
+ML,Mali,0.25
+NE,Niger,0.24
